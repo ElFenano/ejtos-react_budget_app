@@ -11,3 +11,14 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.location-container {
+  background-color: green !important;
+  color: white !important;
+}
+
+.location-select {
+    background-color: green !important;
+    border: none !important;
+    color: white !important;
+}
